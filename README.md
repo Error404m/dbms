@@ -1,5 +1,5 @@
 # dbms
 
-##IIITA STADIUM TICKET BOOKING PORTAL
+## IIITA STADIUM TICKET BOOKING PORTAL
 
->> error404m.github.io/dbms/
+>>> error404m.github.io/dbms/
