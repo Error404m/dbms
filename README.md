@@ -6,7 +6,7 @@
 |    IIT2019239  |  mrityunjaya tripathi  | Error404m |
 |    IIT2019222  |   Sandeep kumar |Error404r |
 |    IIB2019006  |   Amanjeet Kumar | Amanjeetk11 |
-|    IIT2019202  |   JYOTI VERMA |Error404r |
+|    IIT2019202  |   JYOTI VERMA |Jyo123-verma |
 
 
 
