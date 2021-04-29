@@ -9,7 +9,7 @@ Stadium seat booking system
 ## IIITA STADIUM TICKET BOOKING PORTAL
 
 *Team Members*
-|   Enrollment No.  |   Name   | GithubId |
+|   Enrollment No.  |   Name   | Github ID |
 |   --------------  |   ----   | -------- |
 |    IIT2019239  |  mrityunjaya tripathi  | Error404m |
 |    IIT2019222  |   Rauank Singh Rathore  |Error404r |
