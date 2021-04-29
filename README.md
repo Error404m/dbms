@@ -1,4 +1,12 @@
-# dbms
+**DBMS
+*Group No-*"19"
+
+*Faculty Name-*"Dr. Anjali Gautam"
+
+---
+## Problem Statement
+Stadium seat booking system
+## IIITA STADIUM TICKET BOOKING PORTAL
 
 *Team Members*
 |   Enrollment No.  |   Name   | GithubId |
@@ -9,8 +17,5 @@
 |    IIT2019202  |   JYOTI VERMA |Jyo123-verma |
 
 
-
-
-## IIITA STADIUM TICKET BOOKING PORTAL
 
 >>> error404m.github.io/dbms/
